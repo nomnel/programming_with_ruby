@@ -38,7 +38,7 @@ class OrangeTree
   end
 
   def countTheOranges
-    "#{@orangeCount}個の実が成っている"
+    puts "#{@orangeCount}個の実が成っている"
   end
 
   def pichAnOrange
